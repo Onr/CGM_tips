@@ -1,5 +1,5 @@
 #Tips collected by our lab graduate students
 
 
-## youbue channles 
+## youtube channles 
 https://www.youtube.com/c/YannicKilcher/
