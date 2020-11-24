@@ -1,5 +1,8 @@
-#Tips collected by our lab graduate students
+# Tips collected by our lab graduate students
 
 
-## youtube channles 
-https://www.youtube.com/c/YannicKilcher/
+### youtube channles 
+**[[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)]**
+**[[Two Minute Papers](https://www.youtube.com/user/keeroyz)]**
+
+### code
