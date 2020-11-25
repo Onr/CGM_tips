@@ -15,8 +15,8 @@
 
 ### Tips:
 
-use **[[comet.ml] (https://www.comet.ml/)]**  to track your experiments
+use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
 
-try **[[pytorch lightning] (https://www.pytorchlightning.ai/)]**
+try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
 
-run mulitiple experiments with **[[test-tube] (https://github.com/williamFalcon/test-tube)]** for example
+run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/test-tube)]** for example
