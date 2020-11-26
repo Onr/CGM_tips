@@ -20,3 +20,5 @@ use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
 try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
 
 run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/test-tube)]** for example
+
+you can connect a python output as a vitual camera using OBS Studio
