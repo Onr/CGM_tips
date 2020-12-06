@@ -12,13 +12,18 @@
 ### Websites
 **[[Papers With Code](https://paperswithcode.com/)]**
 
+### Programs
+
+Watch all vidios and audio in the browser at whatever speed you like, use this extension: **[[global-speed-chrom](https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?authuser=1)]** or **[[global-speed-edge](https://microsoftedge.microsoft.com/addons/detail/global-speed/mjhlabbcmjflkpjknnicihkfnmbdfced)]**
 
 ### Tips:
 
-use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
+Use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
 
-try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
+Try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
 
-run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/test-tube)]** for example
+Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/test-tube)]** for example
 
-you can connect a python output as a vitual camera using OBS Studio
+You can connect a python output as a vitual camera using OBS Studio **[[OBS-Studio](https://obsproject.com/)]**
+
+
