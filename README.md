@@ -1,22 +1,27 @@
 # Tips collected by our lab graduate students
 
 
-### Youtube Channles 
+## Youtube Channles 
+
 **[[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)]**
 
 **[[Two Minute Papers](https://www.youtube.com/user/keeroyz)]**
 
-### Twitter
+## Twitter
+
 **[[Liu Mingyu](https://twitter.com/liu_mingyu)]**
 
-### Websites
+## Websites
+
 **[[Papers With Code](https://paperswithcode.com/)]**
 
-### Programs
+**[[Kaggle](https://www.kaggle.com/)]**
+
+## Programs
 
 Watch all vidios and audio in the browser at whatever speed you like, use this extension: **[[global-speed-chrom](https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?authuser=1)]** or **[[global-speed-edge](https://microsoftedge.microsoft.com/addons/detail/global-speed/mjhlabbcmjflkpjknnicihkfnmbdfced)]**
 
-### Tips:
+## Tips:
 
 Use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
 
