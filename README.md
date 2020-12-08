@@ -19,7 +19,7 @@
 
 ## Programs
 
-Watch all vidios and audio in the browser at whatever speed you like, use this extension: **[[global-speed-chrom](https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?authuser=1)]** or **[[global-speed-edge](https://microsoftedge.microsoft.com/addons/detail/global-speed/mjhlabbcmjflkpjknnicihkfnmbdfced)]**
+**[[global-speed-chrom](https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?authuser=1)]** Watch all videos and audio in the browser at whatever speed you like, using this extension or **[[global-speed-edge](https://microsoftedge.microsoft.com/addons/detail/global-speed/mjhlabbcmjflkpjknnicihkfnmbdfced)]**
 
 ## Tips:
 
