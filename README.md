@@ -3,7 +3,7 @@
 
 ## Youtube Channles 
 
-**[[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)]**
+**[[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)] [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)**
 
 **[[Two Minute Papers](https://www.youtube.com/user/keeroyz)]**
 
