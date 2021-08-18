@@ -17,9 +17,17 @@
 
 **[[Kaggle](https://www.kaggle.com/)]**
 
+**[[Connected papers](https://www.connectedpapers.com/)]**
+
+
 ## Programs
 
 **[[global-speed-chrom](https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff?authuser=1)]** Watch all videos and audio in the browser at whatever speed you like, using this extension or **[[global-speed-edge](https://microsoftedge.microsoft.com/addons/detail/global-speed/mjhlabbcmjflkpjknnicihkfnmbdfced)]**
+
+# Bugs
+
+* **Free cuda memory** - Occasionally the gpu memory does not get freed, and when using nvidia-smi there is no program using it.
+  With this command, you can see what programs use the GPU cache ```sudo fuser -v /dev/nvidia``` it is most likely that you will need to kill the Python named programs with ```kill -9 PID-of-python-command-name```
 
 ## Tips:
 
@@ -31,5 +39,6 @@ Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/t
 
 You can connect a python output as a vitual camera using OBS Studio **[[OBS-Studio](https://obsproject.com/)]**
 
+dance
 
 ![dence_dog](/success_dog.gif)
