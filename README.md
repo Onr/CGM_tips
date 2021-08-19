@@ -27,7 +27,7 @@
 # Bugs
 
 * **Free cuda memory** - Occasionally the gpu memory does not get freed, and when using nvidia-smi there is no program using it.
-  With this command, you can see what programs use the GPU cache ```sudo fuser -v /dev/nvidia``` it is most likely that you will need to kill the Python named programs with ```kill -9 PID-of-python-command-name```
+  With this command, you can see what programs use the GPU cache ```sudo fuser -v /dev/nvidia*``` it is most likely that you will need to kill the Python named programs with ```kill -9 PID-of-python-command-name```
 
 ## Tips:
 
