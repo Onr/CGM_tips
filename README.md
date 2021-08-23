@@ -7,8 +7,13 @@
 
 **[[Two Minute Papers](https://www.youtube.com/user/keeroyz)]**
 
+**[[3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)]**
+
 ### Youtube Lecture Sereis 
 **[[TUM AI - Guest Lecture Series](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt)]**
+
+**[[3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q)]**
+
 
 ## Twitter
 
