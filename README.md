@@ -9,7 +9,7 @@
 
 ## Twitter
 
-**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI] (https://twitter.com/GoogleAI)]**
+**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**
 
 ## Websites
 
