@@ -9,11 +9,11 @@
 
 ## Twitter
 
-**[[Liu Mingyu](https://twitter.com/liu_mingyu)]**
+**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI] (https://twitter.com/GoogleAI)]**
 
 ## Websites
 
-**[[Papers With Code](https://paperswithcode.com/)]**
+**[[Papers With Code](https://paperswithcode.com/)]** 
 
 **[[Kaggle](https://www.kaggle.com/)]**
 
