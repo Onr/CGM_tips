@@ -7,6 +7,9 @@
 
 **[[Two Minute Papers](https://www.youtube.com/user/keeroyz)]**
 
+### Youtube Lecture Sereis 
+**[[TUM AI - Guest Lecture Series](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt)]**
+
 ## Twitter
 
 **[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**
