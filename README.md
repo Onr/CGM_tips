@@ -14,10 +14,14 @@
 
 **[[3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q)]**
 
+**[[Deep Unsupervised Learning -- Berkeley Spring 2020](https://youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)]**
+
+**[[Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)]**
+
 
 ## Twitter
 
-**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**
+**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**
 
 ## Websites
 
