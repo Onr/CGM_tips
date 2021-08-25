@@ -21,7 +21,7 @@
 
 ## Twitter
 
-**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**
+**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**, **[Facebook AI](https://twitter.com/facebookai)]**
 
 ## Websites
 
@@ -51,6 +51,6 @@ Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/t
 
 You can connect a python output as a vitual camera using OBS Studio **[[OBS-Studio](https://obsproject.com/)]**
 
-dance
+Dance
 
 ![dence_dog](/success_dog.gif)
