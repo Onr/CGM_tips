@@ -21,7 +21,7 @@
 
 ## Twitter
 
-**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**, **[Facebook AI](https://twitter.com/facebookai)]**
+**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**, **[[Facebook AI](https://twitter.com/facebookai)]**
 
 ## Websites
 
