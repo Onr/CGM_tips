@@ -43,7 +43,7 @@
 
 ## Tips:
 
-Pycharm ssh [ssh_guide](/ssh_cgm_guide.pdf)
+Pycharm [ssh_guide](/ssh_cgm_guide.pdf)
 
 Use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
 
