@@ -45,7 +45,7 @@
 
 Pycharm [ssh_guide](/ssh_cgm_guide.pdf)
 
-Use **[[comet.ml](https://www.comet.ml/)]**  to track your experiments
+Use **[[comet.ml](https://www.comet.ml/)] or [[wandb](https://wandb.ai/site)]**  to track your experiments
 
 Try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
 
