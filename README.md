@@ -1,9 +1,9 @@
 # Tips collected by our lab graduate students
 
 
-## Youtube Channles 
+## Youtube Channles / Podcasts
 
-**[[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)] [[Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)]**
+**[[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)] [[Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)] [[Practical AI](https://changelog.com/practicalai)]**
 
 **[[Two Minute Papers](https://www.youtube.com/user/keeroyz)]**
 
