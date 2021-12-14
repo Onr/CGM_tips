@@ -47,8 +47,8 @@ Pycharm [ssh_guide](/ssh_cgm_guide.pdf)
 
 Use **[[comet.ml](https://www.comet.ml/)] or [[wandb](https://wandb.ai/site)]**  to track your experiments
 
-Try out virtual environment.
-**create** enviroment folder by typing: python<optional: python version, eg: 3.9> -m venv <env_name>
+Try out virtual environment.\
+**create** enviroment folder by typing: python<optional: python version, eg: 3.9> -m venv <env_name>\
 **activate**: source <env_name>/bin/activate.
 
 Try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
