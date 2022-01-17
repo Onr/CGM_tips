@@ -9,6 +9,8 @@
 
 **[[3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)]**
 
+**[[Talking Papers](https://talking.papers.podcast.itzikbs.com/)]
+
 ### Youtube Lecture Sereis 
 **[[TUM AI - Guest Lecture Series](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt)]**
 
@@ -21,7 +23,7 @@
 
 ## Twitter
 
-**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**, **[[Facebook AI](https://twitter.com/facebookai)]**
+**[[Liu Mingyu](https://twitter.com/liu_mingyu)]** , **[[Google AI](https://twitter.com/GoogleAI)]**, **[[Ayellet Tal](https://twitter.com/Ayellet4)]**, **[[Facebook AI](https://twitter.com/facebookai)]**, **[[Yizhak Ben-Shabat](https://twitter.com/sitzikbs)]**, **[[Talking Papers](https://twitter.com/talking_papers)]**
 
 ## Websites
 
