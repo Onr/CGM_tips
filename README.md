@@ -9,7 +9,7 @@
 
 **[[3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)]**
 
-**[[Talking Papers](https://talking.papers.podcast.itzikbs.com/)]
+**[[Talking Papers](https://talking.papers.podcast.itzikbs.com/)]**
 
 ### Youtube Lecture Sereis 
 **[[TUM AI - Guest Lecture Series](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt)]**
