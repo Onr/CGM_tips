@@ -54,7 +54,7 @@ Try out virtual environment.\
 
 Try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
 
-Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/test-tube)]** for example
+Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/test-tube)]** or **[[wandb sweep](https://docs.wandb.ai/guides/sweeps)]**
 
 You can connect a python output as a vitual camera using OBS Studio **[[OBS-Studio](https://obsproject.com/)]**
 
