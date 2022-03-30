@@ -58,6 +58,8 @@ Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/t
 
 You can connect a python output as a vitual camera using OBS Studio **[[OBS-Studio](https://obsproject.com/)]**
 
+You can convert Panda DataFrame to latex **[[DataFrame_to_Latex](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_latex.html)]
+
 Dance
 
 ![dence_dog](/success_dog.gif)
