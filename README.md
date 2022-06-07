@@ -20,6 +20,12 @@
 
 **[[Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)]**
 
+**[[LaTeX tutorial](https://youtu.be/Jp0lPj2-DQA)]**
+
+**[[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)]**
+
+
+
 
 ## Twitter
 
