@@ -11,6 +11,8 @@
 
 **[[Talking Papers](https://talking.papers.podcast.itzikbs.com/)]**
 
+**[[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)]**
+
 ### Youtube Lecture Sereis 
 **[[TUM AI - Guest Lecture Series](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt)]**
 
@@ -21,9 +23,6 @@
 **[[Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)]**
 
 **[[LaTeX tutorial](https://youtu.be/Jp0lPj2-DQA)]**
-
-**[[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)]**
-
 
 
 
@@ -51,13 +50,15 @@
 
 ## Tips:
 
-Pycharm [ssh_guide](/ssh_cgm_guide.pdf)
+Pycharm **[ssh_guide](/ssh_cgm_guide.pdf)**
 
 Use **[[comet.ml](https://www.comet.ml/)] or [[wandb](https://wandb.ai/site)]**  to track your experiments
 
 Try out virtual environment.\
-**create** enviroment folder by typing: ```python<optional: python version, eg: python3.9> -m venv <env_name>```\
-**activate**: ```source <env_name>/bin/activate```.
+**create** enviroment folder by typing: 
+```python<optional: python version, eg: python3.9> -m venv <env_name>```\
+**activate**: 
+```source <env_name>/bin/activate```.
 
 Try **[[pytorch lightning](https://www.pytorchlightning.ai/)]**
 
@@ -65,7 +66,7 @@ Run mulitiple experiments with **[[test-tube](https://github.com/williamFalcon/t
 
 You can connect a python output as a vitual camera using OBS Studio **[[OBS-Studio](https://obsproject.com/)]**
 
-You can convert Panda DataFrame to latex **[[DataFrame_to_Latex](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_latex.html)]
+You can convert Panda DataFrame to latex **[[DataFrame_to_Latex](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_latex.html)]**
 
 Dance
 
