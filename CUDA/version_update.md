@@ -25,7 +25,7 @@ In case of depencency issues, try these useful threads:
 Go to:
 
 https://developer.nvidia.com/cuda-downloads
-(note it links to the most updated cuda vesrion)
+(note that it links to the most updated cuda vesrion)
 
 Choose a configuration & follow the instructions.
 
