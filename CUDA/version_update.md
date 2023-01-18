@@ -15,9 +15,9 @@ To clean up the uninstall:
 sudo apt-get autoremove
 ```
 
-In case of depencency issues, try these:
-https://askubuntu.com/questions/940582/upgrade-or-uninstall-cuda-to-allow-apt-get-to-work
-https://askubuntu.com/questions/1152357/uninstall-broken-cuda-installation
+In case of depencency issues, try these useful threads:
+1. https://askubuntu.com/questions/940582/upgrade-or-uninstall-cuda-to-allow-apt-get-to-work
+2. https://askubuntu.com/questions/1152357/uninstall-broken-cuda-installation
 
 
 ## Install the new version:
@@ -25,6 +25,7 @@ https://askubuntu.com/questions/1152357/uninstall-broken-cuda-installation
 Go to:
 
 https://developer.nvidia.com/cuda-downloads
+(note it links to the most updated cuda vesrion)
 
 Choose a configuration & follow the instructions.
 
