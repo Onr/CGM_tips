@@ -1,19 +1,19 @@
 ## Uninstall previous versions:
 
 To remove CUDA Toolkit:
-'''
+```
 sudo apt-get --purge remove "*cublas*" "*cufft*" "*curand*" "*cusolver*" "*cusparse*" "*npp*" "*nvjpeg*" "cuda*" "nsight*"
-'''
+```
 
 To remove NVIDIA Drivers:
-'''
+```
 sudo apt-get --purge remove "*nvidia*"
-'''
+```
 
 To clean up the uninstall:
-'''
+```
 sudo apt-get autoremove
-'''
+```
 
 In case of depencency issues, try these:
 https://askubuntu.com/questions/940582/upgrade-or-uninstall-cuda-to-allow-apt-get-to-work
