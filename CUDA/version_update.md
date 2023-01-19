@@ -39,6 +39,8 @@ vim ~/.bashrc
 
 Add the line:
 
+```
 export PATH="/usr/local/cuda-XX.X/bin:$PATH"
+```
 
 change XX.X according to the installed version.
