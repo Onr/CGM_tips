@@ -30,3 +30,15 @@ https://developer.nvidia.com/cuda-downloads
 Choose a configuration & follow the instructions.
 
 This video can also be useful: https://www.youtube.com/watch?v=4LuHiMvBMGY
+
+## Add nvcc to path
+
+```
+vim ~/.bashrc
+```
+
+Add the line:
+
+export PATH="/usr/local/cuda-XX.X/bin:$PATH"
+
+change XX.X according to the installed version.
