@@ -24,7 +24,9 @@
 
 **[LaTeX tutorial](https://youtu.be/Jp0lPj2-DQA)**
 
+### Blogs
 
+**[Tuning Playbook](https://github.com/google-research/tuning_playbook)**
 
 ## Twitter
 
@@ -47,6 +49,8 @@
 
 [**Wiki**](https://github.com/Onr/CGM_tips/wiki)
 
+Pycharm **[ssh_guide](/ssh_cgm_guide.pdf)**
+
 # Bugs
 
 * **Free cuda memory** - Occasionally the gpu memory does not get freed, and when using nvidia-smi there is no program using it.
@@ -54,7 +58,7 @@
 
 ## Tips:
 
-Pycharm **[ssh_guide](/ssh_cgm_guide.pdf)**
+
 
 Use **[comet.ml](https://www.comet.ml/) or [wandb](https://wandb.ai/site)**  to track your experiments
 
