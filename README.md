@@ -3,7 +3,11 @@
 
 ## Youtube Channles / Podcasts
 
-**[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/), [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ), [Practical AI](https://changelog.com/practicalai)**
+**[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/)**
+
+**[Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)**
+
+**[Practical AI](https://changelog.com/practicalai)**
 
 **[Two Minute Papers](https://www.youtube.com/user/keeroyz)**
 
@@ -13,7 +17,9 @@
 
 **[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)**
 
+
 ### Youtube Lecture Sereis 
+
 **[TUM AI - Guest Lecture Series](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy8kMlz7cRqz-BjbdyWsfLXt)**
 
 **[3DGV Seminar](https://www.youtube.com/channel/UCpCQ8tjahrTPMsBiyPg2H7Q)**
@@ -24,13 +30,26 @@
 
 **[LaTeX tutorial](https://youtu.be/Jp0lPj2-DQA)**
 
+
 ### Blogs
 
 **[Tuning Playbook](https://github.com/google-research/tuning_playbook)**
 
+
 ## Twitter
 
-**[Liu Mingyu](https://twitter.com/liu_mingyu)** , **[Google AI](https://twitter.com/GoogleAI)**, **[Ayellet Tal](https://twitter.com/Ayellet4)**, **[Facebook AI](https://twitter.com/facebookai)**, **[Yizhak Ben-Shabat](https://twitter.com/sitzikbs)**, **[Talking Papers](https://twitter.com/talking_papers)**
+**[Liu Mingyu](https://twitter.com/liu_mingyu)** 
+
+**[Google AI](https://twitter.com/GoogleAI)**
+
+**[Ayellet Tal](https://twitter.com/Ayellet4)**
+
+**[Facebook AI](https://twitter.com/facebookai)**
+
+**[Yizhak Ben-Shabat](https://twitter.com/sitzikbs)**
+
+**[Talking Papers](https://twitter.com/talking_papers)**
+
 
 ## Websites
 
@@ -57,7 +76,6 @@ Pycharm **[ssh_guide](/ssh_cgm_guide.pdf)**
   With this command, you can see what programs use the GPU cache ```sudo fuser -v /dev/nvidia*``` it is most likely that you will need to kill the Python named programs with ```kill -9 PID-of-python-command-name```
 
 ## Tips:
-
 
 
 Use **[comet.ml](https://www.comet.ml/) or [wandb](https://wandb.ai/site)**  to track your experiments
