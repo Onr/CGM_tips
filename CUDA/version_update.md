@@ -13,6 +13,8 @@ sudo apt-get --purge remove "*nvidia*"
 To clean up the uninstall:
 ```
 sudo apt-get autoremove
+sudo apt-get autoclean
+sudo rm -rf /usr/local/cuda*
 ```
 
 In case of depencency issues, try these useful threads:
