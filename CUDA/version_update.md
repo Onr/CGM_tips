@@ -30,7 +30,7 @@ https://developer.nvidia.com/cuda-downloads
 (note that it links to the most updated cuda vesrion)
 
 Choose a configuration & follow the instructions.
-For checking your ubuntu version: 'lsb_release -a'
+For checking your ubuntu version: `lsb_release -a`
 
 This video can also be useful: https://www.youtube.com/watch?v=4LuHiMvBMGY
 
