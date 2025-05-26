@@ -17,7 +17,7 @@
 
 **[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)**
 
-**[DevOps Toolbox](https://www.youtube.com/@devopstoolbox)
+**[DevOps Toolbox](https://www.youtube.com/@devopstoolbox)**
 
 ### Youtube Lecture Sereis 
 
