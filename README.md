@@ -17,6 +17,7 @@
 
 **[Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw)**
 
+**[DevOps Toolbox](https://www.youtube.com/@devopstoolbox)
 
 ### Youtube Lecture Sereis 
 
@@ -29,6 +30,7 @@
 **[Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)**
 
 **[LaTeX tutorial](https://youtu.be/Jp0lPj2-DQA)**
+
 
 
 ### Blogs
@@ -69,6 +71,10 @@
 [**Wiki**](https://github.com/Onr/CGM_tips/wiki)
 
 Pycharm **[ssh_guide](/ssh_cgm_guide.pdf)**
+
+Fuzzy Finder [fzf](https://github.com/junegunn/fzf)
+
+Better cd [z](https://github.com/ajeetdsouza/zoxide)
 
 # Bugs
 * **Slow Pycharm** - PyCharm can sometimes become slow or unresponsive due to its indexing process. To prevent this, you can right-click on a folder, such as logs, that doesn't need to be indexed and mark it as excluded.
